@@ -1,0 +1,4 @@
+protocol,subject,split_seed,test_accuracy,test_balanced_accuracy,test_macro_f1,test_loss,used_time_seconds
+Cross-Subject Generalization Protocol,1,,0.344444,0.348591,0.300481,1.420478,205.809303
+Cross-Subject Generalization Protocol,2,,0.444444,0.434683,0.420411,1.238306,259.571832
+Cross-Subject Generalization Protocol,3,,0.266667,0.279809,0.210786,2.082051,430.526369

@@ -1,0 +1,16 @@
+protocol,subject,split_seed,test_accuracy,test_balanced_accuracy,test_macro_f1,test_loss,used_time_seconds
+Repeated Subject-Dependent Protocol,2,2026,0.928571,0.9375,0.936508,0.23568,113.495638
+Repeated Subject-Dependent Protocol,1,123,0.857143,0.833333,0.811508,0.961588,84.789474
+Repeated Subject-Dependent Protocol,1,42,0.785714,0.75,0.666667,0.90394,66.832469
+Repeated Subject-Dependent Protocol,4,42,0.714286,0.708333,0.717857,0.718795,70.952322
+Repeated Subject-Dependent Protocol,3,123,0.714286,0.75,0.695238,0.736169,66.4334
+Repeated Subject-Dependent Protocol,3,42,0.642857,0.666667,0.639881,0.84412,60.25181
+Repeated Subject-Dependent Protocol,2,123,0.642857,0.625,0.616342,0.941374,43.579803
+Repeated Subject-Dependent Protocol,2,42,0.571429,0.541667,0.520513,0.794552,98.660002
+Repeated Subject-Dependent Protocol,1,2026,0.5,0.541667,0.486111,1.257541,49.575845
+Repeated Subject-Dependent Protocol,5,42,0.5,0.520833,0.483333,1.715654,49.110812
+Repeated Subject-Dependent Protocol,4,2026,0.428571,0.395833,0.406818,2.699407,80.533584
+Repeated Subject-Dependent Protocol,4,123,0.357143,0.333333,0.333333,1.42193,43.132172
+Repeated Subject-Dependent Protocol,3,2026,0.357143,0.354167,0.311111,1.238706,41.360365
+Repeated Subject-Dependent Protocol,5,123,0.357143,0.354167,0.3125,2.445439,58.236095
+Repeated Subject-Dependent Protocol,5,2026,0.285714,0.291667,0.265873,2.840428,62.887281

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+/content/
+eeg_data/
+eeg_bci_results/
+eeg_bci_within_subject_results/
+eeg_bci_within_subject_repeated_results/
+
+*.edf
+*.fif
+*.pt
+*.pth

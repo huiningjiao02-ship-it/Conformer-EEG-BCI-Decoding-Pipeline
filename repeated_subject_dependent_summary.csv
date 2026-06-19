@@ -1,6 +1,0 @@
-metric,mean,std
-test_accuracy,0.576190,0.199245
-test_balanced_accuracy,0.573611,0.200270
-test_macro_f1,0.546906,0.200719
-test_loss,1.317022,0.778456
-used_time_seconds,65.988738,21.049103
